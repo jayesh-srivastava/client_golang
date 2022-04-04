@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/prometheus/client_golang/tree/master.svg?style=svg)](https://circleci.com/gh/prometheus/client_golang/tree/master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/prometheus/client_golang)](https://goreportcard.com/report/github.com/prometheus/client_golang)
 [![Go Reference](https://pkg.go.dev/badge/github.com/prometheus/client_golang.svg)](https://pkg.go.dev/github.com/prometheus/client_golang)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjayesh-srivastava%2Fclient_golang.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjayesh-srivastava%2Fclient_golang?ref=badge_shield)
 
 This is the [Go](http://golang.org) client library for
 [Prometheus](http://prometheus.io). It has two separate parts, one for
@@ -66,3 +67,7 @@ The `extraction` and `text` packages are now contained in
 
 See the [contributing guidelines](CONTRIBUTING.md) and the
 [Community section](http://prometheus.io/community/) of the homepage.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjayesh-srivastava%2Fclient_golang.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjayesh-srivastava%2Fclient_golang?ref=badge_large)
